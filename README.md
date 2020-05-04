@@ -1,7 +1,7 @@
 # Get
 
 ```ts
-import { get } from 'https://raw.githubusercontent.com/rainder/deno-get/master/get.ts';
+import { get } from 'https://raw.githubusercontent.com/rainder/deno-get/v1.0.0/get.ts';
 
 const input = {
   a: {
