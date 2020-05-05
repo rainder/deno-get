@@ -2,4 +2,7 @@
 
 A collection of Deno helper functions
 
-## [Get](/get)
+- Object manipulation
+	- [Get](/get)
+	- [Set](/set)
+
